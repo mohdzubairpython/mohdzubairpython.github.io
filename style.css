@@ -554,6 +554,27 @@ form input, form textarea{
     font-size:18px;
     display: block;
 }
+.header-text h5
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0px;
+    
+}
+.header-text h3
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    font-size: 0;
+}
+.header-text .down-p
+{
+    font-size: 0;;
+    
+}
+.header-text .down-p
+{
+    font-display: none;
+}
 nav .fa-solid{
     display:block;
     font-size:25px;
@@ -658,6 +679,13 @@ nav ul .fa-solid{
     border-radius: 1%;
     
 }
+/*------linkedin responsive-----*/
+
+       .badge-base
+       {
+           padding-left:12px ;
+       }
+
 /*--------project responsive-----*/
 #project{
     padding-top: 45px;
