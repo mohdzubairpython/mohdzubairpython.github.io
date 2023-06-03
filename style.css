@@ -72,7 +72,8 @@ nav ul li a:hover::after{
     width:100%;
 }
 .header-text{
-    margin-top: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 14%;
     font-size: 30px;
 }
 .header-text h1{
@@ -526,7 +527,7 @@ form input, form textarea{
 
 @media(max-width:600px){/*the screen width will be min-width(zero) and maximum(max-width)*/
 .header-text{
-    margin-top: 40%; 
+    margin-top: 5%; 
     margin-left:-25px;
     margin-bottom: 10px;
 }
