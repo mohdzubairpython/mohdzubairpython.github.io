@@ -97,6 +97,12 @@ nav ul li a:hover::after{
 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.header-text .down-p
+{
+    font-size: 28px;
+    margin-top: -9px;
+}
+
 nav .fa-solid{
     display:none;
 }
