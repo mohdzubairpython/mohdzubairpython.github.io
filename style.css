@@ -97,6 +97,7 @@ nav ul li a:hover::after{
 .header-text h5
 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
 }
 .header-text .down-p
 {
