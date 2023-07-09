@@ -526,7 +526,7 @@ form input, form textarea{
 
              /*-----------------css for responsive looking---------------*/
 
-@media(max-width:600px){/*the screen width will be min-width(zero) and maximum(max-width)*/
+@media(max-width:672px){/*the screen width will be min-width(zero) and maximum(max-width)*/
 .header-text{
     margin-top: 5%; 
     margin-left:-25px;
@@ -564,7 +564,7 @@ form input, form textarea{
 }
 .header-text h6
 {
-    font-size: 0;
+    font-display:none;
     
 }
 .header-text h3
