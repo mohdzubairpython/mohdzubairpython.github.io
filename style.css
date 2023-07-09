@@ -73,7 +73,7 @@ nav ul li a:hover::after{
 }
 .header-text{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-top: 4% !important;
+    margin-top: 2% !important;
     font-size: 30px;
 }
 .header-text h1{
@@ -565,7 +565,7 @@ form input, form textarea{
 .header-text h6
 {
     font-display:2px !important;
-    padding-top: 36px !important;
+    padding-top: 96px !important;
     
 }
 .header-text h3
