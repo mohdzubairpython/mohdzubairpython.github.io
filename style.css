@@ -94,7 +94,7 @@ nav ul li a:hover::after{
     color:#05e471;   /* #29a734f1  */
     font-size:35px;
 }
-.header-text h5
+.header-text h6
 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size:20px;
@@ -562,7 +562,7 @@ form input, form textarea{
     font-size:18px;
     display: block;
 }
-.header-text h5
+.header-text h6
 {
     font-size: 0;
     
