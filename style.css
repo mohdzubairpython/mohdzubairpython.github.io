@@ -564,9 +564,7 @@ form input, form textarea{
 }
 .header-text h5
 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size-:1px;
-    top-padding:38px;
+    display:none;
     
 }
 .header-text h3
