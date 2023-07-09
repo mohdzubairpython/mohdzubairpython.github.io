@@ -564,7 +564,7 @@ form input, form textarea{
 }
 .header-text h5
 {
-    display:none;
+    font-size: 0;
     
 }
 .header-text h3
