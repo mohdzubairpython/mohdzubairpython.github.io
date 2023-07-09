@@ -564,7 +564,7 @@ form input, form textarea{
 }
 .header-text h6
 {
-    font-size: 120px;
+    font-size: 120px !important;
     
 }
 .header-text h3
